@@ -19,7 +19,97 @@
           "FadeOutTime": 0.5
         }
       ]
-    }
+    },
+    "Expressions": [
+      {
+        "Name": "Shy",
+        "File": "expressions/A1害羞.exp3.json"
+      },
+      {
+        "Name": "Excited",
+        "File": "expressions/A2期待.exp3.json"
+      },
+      {
+        "Name": "Dark",
+        "File": "expressions/A3黑脸.exp3.json"
+      },
+      {
+        "Name": "BeadyEyes",
+        "File": "expressions/A4豆豆眼.exp3.json"
+      },
+      {
+        "Name": "Satisfied",
+        "File": "expressions/A5满足.exp3.json"
+      },
+      {
+        "Name": "Dizzy",
+        "File": "expressions/A6眩晕.exp3.json"
+      },
+      {
+        "Name": "Crying",
+        "File": "expressions/A7大哭.exp3.json"
+      },
+      {
+        "Name": "Microphone",
+        "File": "expressions/B1麦克风.exp3.json"
+      },
+      {
+        "Name": "EarPick",
+        "File": "expressions/B2挖耳勺.exp3.json"
+      },
+      {
+        "Name": "Teacup",
+        "File": "expressions/B3茶杯.exp3.json"
+      },
+      {
+        "Name": "HairStyle",
+        "File": "expressions/B4发型.exp3.json"
+      },
+      {
+        "Name": "EyeSwap",
+        "File": "expressions/C1眼球.exp3.json"
+      },
+      {
+        "Name": "Shoes",
+        "File": "expressions/C2鞋子.exp3.json"
+      },
+      {
+        "Name": "BareLeg",
+        "File": "expressions/C3光腿.exp3.json"
+      },
+      {
+        "Name": "Ahoge",
+        "File": "expressions/C4呆毛.exp3.json"
+      },
+      {
+        "Name": "HairBun",
+        "File": "expressions/C5发包.exp3.json"
+      },
+      {
+        "Name": "Headwear",
+        "File": "expressions/C6头饰.exp3.json"
+      },
+      {
+        "Name": "Halo",
+        "File": "expressions/C7头环.exp3.json"
+      },
+      {
+        "Name": "LongSkirt",
+        "File": "expressions/C8长裙.exp3.json"
+      },
+      {
+        "Name": "Eyepatch",
+        "File": "expressions/C9眼罩.exp3.json"
+      },
+      {
+        "Name": "Watermark",
+        "File": "expressions/D1水印.exp3.json"
+      },
+      {
+        "Name": "BodyToggle",
+        "File": "expressions/D2身体开关.exp3.json"
+      }
+    ]
   },
   "Groups": [
     {

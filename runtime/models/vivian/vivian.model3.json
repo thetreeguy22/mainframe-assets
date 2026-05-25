@@ -25,7 +25,33 @@
           "FadeOutTime": 0.5
         }
       ]
-    }
+    },
+    "Expressions": [
+      {
+        "Name": "UmbrellaClose",
+        "File": "伞关闭.exp3.json"
+      },
+      {
+        "Name": "Cry",
+        "File": "哭.exp3.json"
+      },
+      {
+        "Name": "Shy",
+        "File": "害羞.exp3.json"
+      },
+      {
+        "Name": "Panic",
+        "File": "慌张.exp3.json"
+      },
+      {
+        "Name": "RolledEyes",
+        "File": "白眼.exp3.json"
+      },
+      {
+        "Name": "DarkFace",
+        "File": "黑脸.exp3.json"
+      }
+    ]
   },
   "Groups": [
     {
