@@ -1,0 +1,33 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "yuri_0013.moc3",
+		"Textures": [
+			"yuri_0013.8192/texture_00.png"
+		],
+		"Physics": "yuri_0013.physics3.json",
+		"DisplayInfo": "yuri_0013.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "FaceRed",
+				"File": "FaceRed.exp3.json"
+			},
+			{
+				"File": "FaceBlue.exp3.json"
+			}
+		]
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		}
+	],
+	"HitAreas": []
+}

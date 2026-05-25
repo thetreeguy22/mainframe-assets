@@ -1,0 +1,25 @@
+{
+    "Type": "Live2D Expression",
+    "Parameters": [
+        {
+            "Id": "taishou",
+            "Value": 1.0,
+            "Blend": "Add"
+        },
+        {
+            "Id": "mkf",
+            "Value": 0.0,
+            "Blend": "Add"
+        },
+        {
+            "Id": "wes",
+            "Value": 1.0,
+            "Blend": "Add"
+        },
+        {
+            "Id": "chabei",
+            "Value": 0.0,
+            "Blend": "Add"
+        }
+    ]
+}
