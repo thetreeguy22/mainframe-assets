@@ -1,25 +1,91 @@
 {
-	"Version": 3,
-	"FileReferences": {
-		"Moc": "EVA-2.moc3",
-		"Textures": [
-			"EVA-2.8192/texture_00.png",
-			"EVA-2.8192/texture_01.png",
-			"EVA-2.8192/texture_02.png"
-		],
-		"Physics": "EVA-2.physics3.json",
-		"DisplayInfo": "EVA-2.cdi3.json"
-	},
-	"Groups": [
-		{
-			"Target": "Parameter",
-			"Name": "LipSync",
-			"Ids": []
-		},
-		{
-			"Target": "Parameter",
-			"Name": "EyeBlink",
-			"Ids": []
-		}
-	]
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "EVA-2.moc3",
+    "Textures": [
+      "EVA-2.8192/texture_00.png",
+      "EVA-2.8192/texture_01.png",
+      "EVA-2.8192/texture_02.png"
+    ],
+    "Physics": "EVA-2.physics3.json",
+    "DisplayInfo": "EVA-2.cdi3.json",
+    "Expressions": [
+      {
+        "Name": "1",
+        "File": "1.exp3.json"
+      },
+      {
+        "Name": "10",
+        "File": "10.exp3.json"
+      },
+      {
+        "Name": "11",
+        "File": "11.exp3.json"
+      },
+      {
+        "Name": "12",
+        "File": "12.exp3.json"
+      },
+      {
+        "Name": "13",
+        "File": "13.exp3.json"
+      },
+      {
+        "Name": "14",
+        "File": "14.exp3.json"
+      },
+      {
+        "Name": "15",
+        "File": "15.exp3.json"
+      },
+      {
+        "Name": "16",
+        "File": "16.exp3.json"
+      },
+      {
+        "Name": "2",
+        "File": "2.exp3.json"
+      },
+      {
+        "Name": "3",
+        "File": "3.exp3.json"
+      },
+      {
+        "Name": "4",
+        "File": "4.exp3.json"
+      },
+      {
+        "Name": "5",
+        "File": "5.exp3.json"
+      },
+      {
+        "Name": "6",
+        "File": "6.exp3.json"
+      },
+      {
+        "Name": "7",
+        "File": "7.exp3.json"
+      },
+      {
+        "Name": "8",
+        "File": "8.exp3.json"
+      },
+      {
+        "Name": "9",
+        "File": "9.exp3.json"
+      }
+    ]
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": []
+    },
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": []
+    }
+  ]
 }
