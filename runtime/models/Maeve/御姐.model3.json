@@ -1,27 +1,114 @@
 {
-	"Version": 3,
-	"FileReferences": {
-		"Moc": "御姐.moc3",
-		"Textures": [
-			"御姐.8192/texture_00.png",
-			"御姐.8192/texture_01.png"
-		],
-		"Physics": "御姐.physics3.json",
-		"DisplayInfo": "御姐.cdi3.json"
-	},
-	"Groups": [
-		{
-			"Target": "Parameter",
-			"Name": "EyeBlink",
-			"Ids": [
-				"ParamEyeLOpen",
-				"ParamEyeROpen"
-			]
-		},
-		{
-			"Target": "Parameter",
-			"Name": "LipSync",
-			"Ids": []
-		}
-	]
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "御姐.moc3",
+    "Textures": [
+      "御姐.8192/texture_00.png",
+      "御姐.8192/texture_01.png"
+    ],
+    "Physics": "御姐.physics3.json",
+    "DisplayInfo": "御姐.cdi3.json",
+    "Expressions": [
+      {
+        "Name": "人耳",
+        "File": "人耳.exp3.json"
+      },
+      {
+        "Name": "兽耳",
+        "File": "兽耳.exp3.json"
+      },
+      {
+        "Name": "口红哑光",
+        "File": "口红哑光.exp3.json"
+      },
+      {
+        "Name": "吐舌",
+        "File": "吐舌.exp3.json"
+      },
+      {
+        "Name": "嘴巴调整",
+        "File": "嘴巴调整.exp3.json"
+      },
+      {
+        "Name": "外套",
+        "File": "外套.exp3.json"
+      },
+      {
+        "Name": "尾巴",
+        "File": "尾巴.exp3.json"
+      },
+      {
+        "Name": "左耳坠",
+        "File": "左耳坠.exp3.json"
+      },
+      {
+        "Name": "泪痣",
+        "File": "泪痣.exp3.json"
+      },
+      {
+        "Name": "爱心眼",
+        "File": "爱心眼.exp3.json"
+      },
+      {
+        "Name": "眉心贴纸",
+        "File": "眉心贴纸.exp3.json"
+      },
+      {
+        "Name": "眼泪贴纸",
+        "File": "眼泪贴纸.exp3.json"
+      },
+      {
+        "Name": "穿衣服按键",
+        "File": "穿衣服按键.exp3.json"
+      },
+      {
+        "Name": "背心带子",
+        "File": "背心带子.exp3.json"
+      },
+      {
+        "Name": "胸遮挡3",
+        "File": "胸遮挡3.exp3.json"
+      },
+      {
+        "Name": "胸部遮挡1",
+        "File": "胸部遮挡1.exp3.json"
+      },
+      {
+        "Name": "胸部遮挡2",
+        "File": "胸部遮挡2.exp3.json"
+      },
+      {
+        "Name": "脸红",
+        "File": "脸红.exp3.json"
+      },
+      {
+        "Name": "舌链子",
+        "File": "舌链子.exp3.json"
+      },
+      {
+        "Name": "鞭子",
+        "File": "鞭子.exp3.json"
+      },
+      {
+        "Name": "飞头",
+        "File": "飞头.exp3.json"
+      }
+    ],
+    "Motions": {}
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": [
+        "ParamEyeLOpen",
+        "ParamEyeROpen"
+      ]
+    },
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": []
+    }
+  ]
 }
