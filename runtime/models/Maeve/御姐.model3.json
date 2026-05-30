@@ -1,0 +1,27 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "御姐.moc3",
+		"Textures": [
+			"御姐.8192/texture_00.png",
+			"御姐.8192/texture_01.png"
+		],
+		"Physics": "御姐.physics3.json",
+		"DisplayInfo": "御姐.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen",
+				"ParamEyeROpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}

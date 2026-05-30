@@ -1,0 +1,22 @@
+N1 is human ear
+N2 is cat ear
+N3 is matte lipstick
+N4 is coat
+N5 is tail
+N6 is left earring
+N7 is teardrop mole
+N8 is heart eyes
+N9 is eyebrow sticker
+N0 is tear sticker
+Q is vest strap
+W is chest cover 3
+E is chest cover 1
+R is chest cover 2
+T is blush
+Y is tongue chain
+U is whip
+I is only head
+O is mouth shape adjustment
+P is dressing
+A is tongue out
+Tab is clear all button

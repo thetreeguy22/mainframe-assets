@@ -1,0 +1,15 @@
+{
+    "Type": "Live2D Expression",
+    "Parameters": [
+        {
+            "Id": "Jawopen",
+            "Value": -1.0,
+            "Blend": "Add"
+        },
+        {
+            "Id": "MouthPucker",
+            "Value": -0.30000001192092898,
+            "Blend": "Add"
+        }
+    ]
+}
