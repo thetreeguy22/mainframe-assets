@@ -1,0 +1,26 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Bunny.moc3",
+		"Textures": [
+			"Bunny.8192/texture_00.png",
+			"Bunny.8192/texture_01.png",
+			"Bunny.8192/texture_02.png",
+			"Bunny.8192/texture_03.png"
+		],
+		"Physics": "Bunny.physics3.json",
+		"DisplayInfo": "Bunny.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}
