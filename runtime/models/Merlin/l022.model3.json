@@ -6,7 +6,6 @@
       "L022.4096/texture_00.png",
       "L022.4096/texture_01.png"
     ],
-    "Physics": "L022.physics3.json",
     "DisplayInfo": "L022.cdi3.json",
     "Expressions": [
       {
@@ -69,16 +68,7 @@
         "Name": "expression9",
         "File": "expression9.exp3.json"
       }
-    ],
-    "Motions": {
-      "Idle": [
-        {
-          "File": "merlin_idle.motion3.json",
-          "FadeInTime": 0.5,
-          "FadeOutTime": 0.5
-        }
-      ]
-    }
+    ]
   },
   "Groups": [
     {
