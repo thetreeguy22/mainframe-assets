@@ -1,0 +1,10 @@
+{
+    "Type": "Live2D Expression",
+    "Parameters": [
+        {
+            "Id": "PARAMhairpin_1",
+            "Value": 1.0,
+            "Blend": "Add"
+        }
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "Type": "Live2D Expression",
+    "Parameters": [
+        {
+            "Id": "PARAMahoke",
+            "Value": -1.0,
+            "Blend": "Add"
+        },
+        {
+            "Id": "PARAMhari_1",
+            "Value": 1.0,
+            "Blend": "Add"
+        },
+        {
+            "Id": "PARAMhari_6",
+            "Value": -0.5944027900695801,
+            "Blend": "Add"
+        },
+        {
+            "Id": "PARAMhari_8",
+            "Value": -1.0,
+            "Blend": "Add"
+        },
+        {
+            "Id": "PARAMhari_2_1",
+            "Value": -1.0,
+            "Blend": "Add"
+        }
+    ]
+}

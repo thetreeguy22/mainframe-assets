@@ -1,0 +1,19 @@
+blood-face —————— LeftControl+Numpad5
+circleeyes —————— LeftControl+Numpad6
+hearteyes —————— LeftControl+Numpad7
+knife —————— LeftControl+Numpad3
+mad —————— LeftControl+Numpad8
+mic —————— LeftControl+Numpad2
+mouse —————— LeftControl+Numpad1
+sad —————— LeftControl+Numpad9
+shy —————— RightControl+Numpad1
+stareyes —————— RightControl+Numpad2
+white band —————— RightControl+N1
+white cloth —————— RightControl+N2
+white hair —————— RightControl+N3
+hair cut1 —————— RightControl+N4
+band  —————— RightControl+N7
+cross  —————— RightControl+N8
+
+
+

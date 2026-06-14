@@ -1,0 +1,40 @@
+{
+    "Type": "Live2D Expression",
+    "Parameters": [
+        {
+            "Id": "PARAMahoke",
+            "Value": -1.0,
+            "Blend": "Add"
+        },
+        {
+            "Id": "PARAMhari_1",
+            "Value": 1.0,
+            "Blend": "Add"
+        },
+        {
+            "Id": "PARAMhari_6",
+            "Value": 0.1658799648284912,
+            "Blend": "Add"
+        },
+        {
+            "Id": "PARAMhari_8",
+            "Value": 1.0,
+            "Blend": "Add"
+        },
+        {
+            "Id": "PARAMhari_2",
+            "Value": -1.0,
+            "Blend": "Add"
+        },
+        {
+            "Id": "PARAMhari_3",
+            "Value": 1.0,
+            "Blend": "Add"
+        },
+        {
+            "Id": "PARAMhari_4",
+            "Value": -1.0,
+            "Blend": "Add"
+        }
+    ]
+}
