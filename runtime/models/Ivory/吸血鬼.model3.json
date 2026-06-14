@@ -1,26 +1,108 @@
 {
-	"Version": 3,
-	"FileReferences": {
-		"Moc": "吸血鬼.moc3",
-		"Textures": [
-			"吸血鬼.8192/texture_00.png",
-			"吸血鬼.8192/texture_01.png",
-			"吸血鬼.8192/texture_02.png",
-			"吸血鬼.8192/texture_03.png"
-		],
-		"Physics": "吸血鬼.physics3.json",
-		"DisplayInfo": "吸血鬼.cdi3.json"
-	},
-	"Groups": [
-		{
-			"Target": "Parameter",
-			"Name": "LipSync",
-			"Ids": []
-		},
-		{
-			"Target": "Parameter",
-			"Name": "EyeBlink",
-			"Ids": []
-		}
-	]
+  "Version": 3,
+  "FileReferences": {
+    "Moc": "吸血鬼.moc3",
+    "Textures": [
+      "吸血鬼.8192/texture_00.png",
+      "吸血鬼.8192/texture_01.png",
+      "吸血鬼.8192/texture_02.png",
+      "吸血鬼.8192/texture_03.png"
+    ],
+    "Physics": "吸血鬼.physics3.json",
+    "DisplayInfo": "吸血鬼.cdi3.json",
+    "Expressions": [
+      {
+        "Name": "1",
+        "File": "1.exp3.json"
+      },
+      {
+        "Name": "2",
+        "File": "2.exp3.json"
+      },
+      {
+        "Name": "3",
+        "File": "3.exp3.json"
+      },
+      {
+        "Name": "Band",
+        "File": "Band.exp3.json"
+      },
+      {
+        "Name": "blood-body",
+        "File": "blood-body.exp3.json"
+      },
+      {
+        "Name": "blood-face",
+        "File": "blood-face.exp3.json"
+      },
+      {
+        "Name": "circleeyes",
+        "File": "circleeyes.exp3.json"
+      },
+      {
+        "Name": "click",
+        "File": "click.exp3.json"
+      },
+      {
+        "Name": "hearteyes",
+        "File": "hearteyes.exp3.json"
+      },
+      {
+        "Name": "knife",
+        "File": "knife.exp3.json"
+      },
+      {
+        "Name": "mad",
+        "File": "mad.exp3.json"
+      },
+      {
+        "Name": "mc",
+        "File": "mc.exp3.json"
+      },
+      {
+        "Name": "mouse",
+        "File": "mouse.exp3.json"
+      },
+      {
+        "Name": "sad",
+        "File": "sad.exp3.json"
+      },
+      {
+        "Name": "shy",
+        "File": "shy.exp3.json"
+      },
+      {
+        "Name": "stareyes",
+        "File": "stareyes.exp3.json"
+      },
+      {
+        "Name": "white band",
+        "File": "white band.exp3.json"
+      },
+      {
+        "Name": "white cloth",
+        "File": "white cloth.exp3.json"
+      },
+      {
+        "Name": "white hair",
+        "File": "white hair.exp3.json"
+      },
+      {
+        "Name": "十",
+        "File": "十.exp3.json"
+      }
+    ]
+  },
+  "Groups": [
+    {
+      "Target": "Parameter",
+      "Name": "LipSync",
+      "Ids": []
+    },
+    {
+      "Target": "Parameter",
+      "Name": "EyeBlink",
+      "Ids": []
+    }
+  ]
 }
