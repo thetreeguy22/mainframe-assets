@@ -1,0 +1,17 @@
+💡 Toggles :
+✦ Blush __ N1
+✦ Bra __ N2
+✦ Chair __ N3
+✦ ChestCover __ N4
+✦ Head_NoNeck __ N5
+✦ Head_WithNeck __ N6
+✦ HeartEyes __ N7
+✦ MouthSwitch __ N8
+✦ SideHairSwitch __ N9
+✦ Skirt __ N0
+✦ SmallTao __ F2
+✦ Tail __ F3
+✦ Wings __ F4
+✧ Reset __ F12
+✧ Screenshot __ Shift+Z
+
