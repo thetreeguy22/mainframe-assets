@@ -1,0 +1,35 @@
+{
+    "Type": "Live2D Expression",
+    "Parameters": [
+        {
+            "Id": "haircolor",
+            "Value": 3.0,
+            "Blend": "Add"
+        },
+        {
+            "Id": "haircolor2",
+            "Value": 3.0,
+            "Blend": "Add"
+        },
+        {
+            "Id": "eyecolorleft",
+            "Value": 3.0,
+            "Blend": "Add"
+        },
+        {
+            "Id": "eyecolorleft2",
+            "Value": 1.8141415119171143,
+            "Blend": "Add"
+        },
+        {
+            "Id": "ParamOnOff12",
+            "Value": 3.0,
+            "Blend": "Add"
+        },
+        {
+            "Id": "ParamOnOff13",
+            "Value": 3.0,
+            "Blend": "Add"
+        }
+    ]
+}

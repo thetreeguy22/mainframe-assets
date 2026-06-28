@@ -1,0 +1,45 @@
+{
+    "Type": "Live2D Expression",
+    "Parameters": [
+        {
+            "Id": "ParamOnOff17",
+            "Value": -0.6408929228782654,
+            "Blend": "Add"
+        },
+        {
+            "Id": "haircolor",
+            "Value": 2.0,
+            "Blend": "Add"
+        },
+        {
+            "Id": "haircolor2",
+            "Value": 2.0,
+            "Blend": "Add"
+        },
+        {
+            "Id": "eyecolorleft",
+            "Value": 2.0,
+            "Blend": "Add"
+        },
+        {
+            "Id": "eyecolorleft2",
+            "Value": 2.0,
+            "Blend": "Add"
+        },
+        {
+            "Id": "ParamOnOff12",
+            "Value": 2.0,
+            "Blend": "Add"
+        },
+        {
+            "Id": "ParamOnOff13",
+            "Value": 2.0,
+            "Blend": "Add"
+        },
+        {
+            "Id": "ParamOnOff14",
+            "Value": 0.0,
+            "Blend": "Add"
+        }
+    ]
+}

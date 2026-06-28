@@ -1,0 +1,130 @@
+{
+    "FileMetadata": {
+        "LastSavedVTubeStudioVersion": "1.32.3",
+        "LastSavedPlatform": "Steam",
+        "LastSavedDateUTC": "Wednesday, 20 August 2025, 14:26:57",
+        "LastSavedDateLocalTime": "Wednesday, 20 August 2025, 17:26:57",
+        "LastSavedDateUnixMillisecondTimestamp": "1755700017786"
+    },
+    "SceneName": "",
+    "SceneGroupName": "",
+    "SceneModel": "",
+    "SceneID": "",
+    "Items": [
+        {
+            "VNetJustBorrowedFrom": 0,
+            "VNetJustBorrowedFromItemID": -1,
+            "ItemName": "Hikari - Colored Adjustable Bob Haircut",
+            "ItemObjectInScene": {
+                "instanceID": -591020
+            },
+            "ItemFileName": "Hikari - Colored Adjustable Bob Haircut",
+            "ItemInstanceUUID": "84fc94d0cc6f4741a36bc581780b170c",
+            "Selected": true,
+            "TrackingModel": true,
+            "IsAnimated": false,
+            "IsVideo": false,
+            "IsModel": true,
+            "IsWeb": false,
+            "IsCensored": false,
+            "IsFlipped": false,
+            "IsLocked": true,
+            "Smoothing": 0.0,
+            "Order": 1,
+            "FPS": 0.0,
+            "IsPinned": true,
+            "PinnedTo": "face",
+            "PinnedModel_Live2D": "Riri the Gyaru",
+            "PinnedModel_VTS": "Riri the Gyaru",
+            "PinnedModel_InternalID": "f8e8fd1fdd34497da3b0595288648bf4",
+            "PinnedVertexIDs": "47 45 46 28 26 27",
+            "PinnedVertexPositions": [
+                {
+                    "x": -0.020364953204989435,
+                    "y": 0.5800334215164185,
+                    "z": 0.0
+                },
+                {
+                    "x": -0.04053332284092903,
+                    "y": 0.6132614016532898,
+                    "z": 0.0
+                },
+                {
+                    "x": 0.008733621798455716,
+                    "y": 0.6131016612052918,
+                    "z": 0.0
+                },
+                {
+                    "x": -0.03641974925994873,
+                    "y": 0.5623146891593933,
+                    "z": 0.0
+                },
+                {
+                    "x": -0.005861466750502586,
+                    "y": 0.5584101676940918,
+                    "z": 0.0
+                },
+                {
+                    "x": -0.016928458586335183,
+                    "y": 0.5548046231269836,
+                    "z": 0.0
+                }
+            ],
+            "PinnedVertexCenterOffset": {
+                "x": -0.0017387140542268754,
+                "y": 0.016001999378204347,
+                "z": 0.0
+            },
+            "Size": 0.054802682250738147,
+            "ModelScaleMultiplier": 0.022786175832152368,
+            "Rotation": 359.00518798828127,
+            "Position": {
+                "x": -0.04434077441692352,
+                "y": 0.5795847177505493,
+                "z": 0.0
+            },
+            "Group": "",
+            "Scene": "",
+            "AssetType": 6,
+            "FromWorkshop": false,
+            "FromHotkey": false,
+            "FromAPI": false,
+            "FadeTime": 0.5,
+            "Plugin": "",
+            "WebItemURL": "",
+            "WebItemUseCustomCSS": false,
+            "WebItemCustomCSS": "body {\n    background-color: rgba(0, 0, 0, 0);\n    margin: 0px auto;\n    overflow: hidden;\n}",
+            "WebItemZoomPercent": 100,
+            "WebItemAlphaMultiplier": 1.0,
+            "WebItemCropLeftRightTopBottom": {
+                "x": 0.0,
+                "y": 0.0,
+                "z": 0.0,
+                "w": 0.0
+            },
+            "WebItemSizeInUnityUnits": {
+                "x": 0.6000000238418579,
+                "y": 0.30000001192092898
+            },
+            "WebItemSizeInPixels": {
+                "x": 1024,
+                "y": 576
+            },
+            "WebItemMuted": false,
+            "WebItemAllowLocalURLs": false,
+            "WebItemAllowTransparentBackground": true,
+            "WebItemInteractable": true,
+            "WebItemScrollSensitivity": 0.4000000059604645,
+            "WithinModelPin_On": true,
+            "WithinModelPin_BackOn": true,
+            "WithinModelPin_Layer": -1,
+            "WithinModelPin_ArtMeshID": "<<<LAYER_SPECIAL_TOP>>>",
+            "WithinModelPin_ArtMeshIDBackLayers": "<<<LAYER_SPECIAL_BOTTOM>>>",
+            "WithinModelPin_DoNotPinToLayersAboveItem": false,
+            "WithinModelPin_SpecificPinLayer_On": true,
+            "WithinModelPin_SpecificPinLayer": "face",
+            "WithinModelPin_ShowFrontBack": false,
+            "WithinModelPin_SplitLive2DItemAt": "ArtMesh3"
+        }
+    ]
+}

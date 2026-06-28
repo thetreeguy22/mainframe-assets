@@ -1,0 +1,26 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "Riri the Gyaru.moc3",
+		"Textures": [
+			"Riri the Gyaru.4096/texture_00.png",
+			"Riri the Gyaru.4096/texture_01.png",
+			"Riri the Gyaru.4096/texture_02.png",
+			"Riri the Gyaru.4096/texture_03.png"
+		],
+		"Physics": "Riri the Gyaru.physics3.json",
+		"DisplayInfo": "Riri the Gyaru.cdi3.json"
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": []
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	]
+}
